@@ -101,6 +101,9 @@
 /highlightjs-9.12.0/textmate.css
 /htmltools-fill-0.5.8.1/fill.css
 /htmlwidgets-1.6.4/htmlwidgets.js
+/jquery-3.6.0/jquery-3.6.0.js
+/jquery-3.6.0/jquery-3.6.0.min.js
+/jquery-3.6.0/jquery-3.6.0.min.map
 /jqueryui-1.13.2/AUTHORS.txt
 /jqueryui-1.13.2/images/ui-icons_444444_256x240.png
 /jqueryui-1.13.2/images/ui-icons_555555_256x240.png
